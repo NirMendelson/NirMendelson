@@ -8,5 +8,5 @@ Skills: Sql / Python / Tableau / Java / Javascript
 
 
 
-(https://www.linkedin.com/in/https://www.linkedin.com/in/nirmendelson//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tableau.svg' alt='tableau' height='40'>](https://public.tableau.com/app/profile/nir.mendelson)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NirMendelson)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/nirmendelson//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tableau.svg' alt='tableau' height='40'>](https://public.tableau.com/app/profile/nir.mendelson)  
 
