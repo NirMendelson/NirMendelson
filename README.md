@@ -1,9 +1,7 @@
-![Data](https://i.ibb.co/Gst7FQM/data-banner-dark.jpg)
-
 # Nir Mendelson
-I'm an Information Systems Management student at Ben Gurion University. 
-Data analysis is my passion and I enjoy creating valuable insights from it.
-I'm looking for a job as a data analyst
+Entrepreneur and AI builder with hands-on experience creating full-stack, AI-powered products from idea to deployment. Passionate about rapid experimentation, solving real-world problems with LLMs, and working across teams to turn prototypes into impact. Looking to bring product-thinking and technical creativity into an innovation-driven role.
+![image](https://github.com/user-attachments/assets/1d6a4a5e-5bdc-4e66-b53e-3af121e4c96e)
+
 
 ## Skills
 * 🧩 Sql
